@@ -1,3 +1,4 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+languageCode = "es"
+title = "Linuxpay | Grupo de usuarios de GNU/Linux de Paysandú"
+defaultContentLanguage = "es"
