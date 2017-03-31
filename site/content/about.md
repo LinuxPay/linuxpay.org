@@ -1,7 +1,7 @@
 +++
-title = "¿Quiénes Somos?"
+title = "Sobre Nosotros"
 page="/about.html"
-heading = "¿Quiénes Somos?"
+heading = "Sobre Nosotros"
 imageUrl = "/img/about/jumbotron.jpg"
 +++
 

@@ -1,7 +1,7 @@
 +++
-title = "¿GNU/Linux?"
+title = "GNU/Linux"
 page = "/gnu-linux.html"
-heading = "¿GNU/Linux?"
+heading = "GNU/Linux"
 imageUrl = "/img/about/gnulinux.jpg"
 +++
 
