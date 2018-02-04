@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linuxpay | Grupo de usuarios de GNU/Linux de Paysandú</title>
+    <link>/</link>
+    <description>Recent content on Linuxpay | Grupo de usuarios de GNU/Linux de Paysandú</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 04 Jan 2017 15:04:10 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A beginners’ guide to brewing</title>
+      <link>/post/brewing-chemex/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/post/brewing-chemex/</guid>
+      <description>This week we’ll take a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
+In 1958, designers at the Illinois Institute of Technology said that the Chemex Coffeemaker is &amp;ldquo;one of the best-designed products of modern times&amp;rdquo;, and so is included in the collection of the Museum of Modern Art in New York City.</description>
+    </item>
+    
+    <item>
+      <title>Just in: small batch of Jamaica Blue Mountain in store next week</title>
+      <link>/post/jamaica-blue/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/post/jamaica-blue/</guid>
+      <description>We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.</description>
+    </item>
+    
+    <item>
+      <title>Making sense of the SCAA’s new Flavor Wheel</title>
+      <link>/post/making-sense/</link>
+      <pubDate>Sat, 17 Dec 2016 15:04:10 +0000</pubDate>
+      
+      <guid>/post/making-sense/</guid>
+      <description>The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNU/Linux</title>
+      <link>/gnu-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gnu-linux/</guid>
+      <description>GNU/Linux es uno de los términos empleados para referirse a la combinación del núcleo o kernel libre similar a Unix denominado Linux, que es usado con herramientas de sistema GNU. Su desarrollo es uno de los ejemplos más prominentes de software libre; todo su código fuente puede ser utilizado, modificado y redistribuido libremente por cualquiera bajo los términos de la GPL (Licencia Pública General de GNU, en inglés: General Public License) y otra serie de licencias libres.</description>
+    </item>
+    
+    <item>
+      <title>Our Coffee</title>
+      <link>/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre Nosotros</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Somos una asociación civil sin fines de lucro que agrupa a usuarios GNU/Linux y que tiene por objetivo difundir y promover en nuestro medio la filosofía, uso y desarrollo del software libre. Dicha institución fue constituida formalmente el sábado 15 de septiembre de 2007 en el marco de la celebración del «Software Freedom Day», un esfuerzo mundial en la difusión y concientización en el uso de software de código abierto. En un acto realizado en los altos del Mercado Municipal, se firmó el acta fundacional del denominado «Grupo de Usuarios GNU/Linux de Paysandú – Linuxpay», asociación civil sin fines de lucro que tiene por objetivo difundir y promover en nuestro medio, la filosofía, uso y desarrollo de software libre, en especial promover el uso de GNU/Linux en cualquiera de sus distribuciones y plataformas; incentivar la colaboración entre sus integrantes, promoviendo el libre intercambio de conocimientos, ideas, experiencias, información y código.</description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>/values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/values/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
